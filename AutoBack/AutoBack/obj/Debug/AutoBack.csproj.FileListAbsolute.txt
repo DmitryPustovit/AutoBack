@@ -1,0 +1,22 @@
+c:\users\dmitry\documents\visual studio 2013\Projects\AutoBack\AutoBack\bin\Debug\AutoBack.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\bin\Debug\AutoBack.exe
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\bin\Debug\AutoBack.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\obj\Debug\AutoBack.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\obj\Debug\AutoBack.Properties.Resources.resources
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\obj\Debug\AutoBack.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\obj\Debug\AutoBack.exe
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\obj\Debug\AutoBack.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\obj\Debug\AutoBack.Form1.resources
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\obj\Debug\AutoBack.Form2.resources
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\AutoBack\AutoBack\obj\Debug\AutoBack.Form3.resources
+D:\AutoBack\AutoBack\bin\Debug\AutoBack.exe.config
+D:\AutoBack\AutoBack\obj\Debug\AutoBack.exe
+D:\AutoBack\AutoBack\obj\Debug\AutoBack.pdb
+D:\AutoBack\AutoBack\bin\Debug\AutoBack.exe
+D:\AutoBack\AutoBack\bin\Debug\AutoBack.pdb
+D:\AutoBack\AutoBack\obj\Debug\AutoBack.csprojResolveAssemblyReference.cache
+D:\AutoBack\AutoBack\obj\Debug\AutoBack.Form1.resources
+D:\AutoBack\AutoBack\obj\Debug\AutoBack.Form2.resources
+D:\AutoBack\AutoBack\obj\Debug\AutoBack.Form3.resources
+D:\AutoBack\AutoBack\obj\Debug\AutoBack.Properties.Resources.resources
+D:\AutoBack\AutoBack\obj\Debug\AutoBack.csproj.GenerateResource.Cache
