@@ -5,13 +5,13 @@ This is done by creating hotkeys such as Ctrl S which is the default save hot ke
 automatically backup a selected folder.
 
 
-TECH SPECS
+Tech Specs
 ==========
 Written in C# using the .net framework. 
 Originally writes in Visual Studios 2012 Express. 
 
 
-UPDATE
+Update
 ======
 I wont be working on this project for a while. To much to do and the original excitement I had about this project
 is gone.  
