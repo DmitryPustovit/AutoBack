@@ -20,3 +20,13 @@ D:\AutoBack\AutoBack\obj\Debug\AutoBack.Form2.resources
 D:\AutoBack\AutoBack\obj\Debug\AutoBack.Form3.resources
 D:\AutoBack\AutoBack\obj\Debug\AutoBack.Properties.Resources.resources
 D:\AutoBack\AutoBack\obj\Debug\AutoBack.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\bin\Debug\AutoBack.exe.config
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Debug\AutoBack.exe
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Debug\AutoBack.pdb
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\bin\Debug\AutoBack.exe
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\bin\Debug\AutoBack.pdb
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Debug\AutoBack.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Debug\AutoBack.Form2.resources
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Debug\AutoBack.Form3.resources
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Debug\AutoBack.Properties.Resources.resources
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Debug\AutoBack.csproj.GenerateResource.Cache

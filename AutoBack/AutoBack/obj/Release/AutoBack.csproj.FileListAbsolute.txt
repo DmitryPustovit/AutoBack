@@ -30,3 +30,13 @@ D:\Open Source 2014\AutoBack\AutoBack\obj\Release\AutoBack.Properties.Resources.
 D:\Open Source 2014\AutoBack\AutoBack\obj\Release\AutoBack.csproj.GenerateResource.Cache
 D:\Open Source 2014\AutoBack\AutoBack\bin\Release\AutoBack.exe
 D:\Open Source 2014\AutoBack\AutoBack\bin\Release\AutoBack.pdb
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\bin\Release\AutoBack.exe.config
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Release\AutoBack.exe
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Release\AutoBack.pdb
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\bin\Release\AutoBack.exe
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\bin\Release\AutoBack.pdb
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Release\AutoBack.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Release\AutoBack.Form2.resources
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Release\AutoBack.Form3.resources
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Release\AutoBack.Properties.Resources.resources
+C:\Users\Dmitry\Documents\GitHub\AutoBack\AutoBack\AutoBack\obj\Release\AutoBack.csproj.GenerateResource.Cache

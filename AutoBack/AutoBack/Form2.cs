@@ -15,9 +15,10 @@ namespace AutoBack
     public partial class Form2 : Form
     {
 
+        // File paths never used, were for demo. Overwriten when backup attempted.
 
-        static string source = @"C:\Users\Dmitry\Desktop\OrginFi";
-        static string destination = @"C:\Users\Dmitry\Desktop\Dest";
+        static string source = @"C:\Users\User\Desktop\OrginFi";
+        static string destination = @"C:\Users\User\Desktop\Dest";
 
 
         Timer Clock = new Timer();
@@ -47,8 +48,9 @@ namespace AutoBack
 
         private void Form2_Load(object sender, EventArgs e)
         {
+            //Registers the actaul hot key.
 
-            RegisterHotKey(this.Handle, 1, (uint)fsModifers.Control, (uint)Keys.A);
+            RegisterHotKey(this.Handle, 1, (uint)fsModifers.Control, (uint)Keys.S);
 
             int timetill;
 
@@ -162,8 +164,9 @@ namespace AutoBack
         {
             if (m.Msg == WM_HOTKEY)
             {
-                System.Threading.Thread.Sleep(3000);
+                System.Threading.Thread.Sleep(1000);
                 ReadyCopy();
+                base.WndProc(ref m);
             }
 
             base.WndProc(ref m);
