@@ -8,7 +8,7 @@ automatically backup a selected folder.
 Tech Specs
 ==========
 Written in C# using the .net framework. 
-Originally writes in Visual Studios 2012 Express. 
+Originally writen in Visual Studios 2013 Express. 
 
 
 Update
@@ -16,9 +16,10 @@ Update
 I wont be working on this project for a while. To much to do and the original excitement I had about this project
 is gone.  
 
+I fixed the program so it functions as intended. I will make a web page for the project eventually. I have quite a few ideas for this project
+some I may release later on. 
+
 
 KNOWN BUGS
 ==========
-Ironically when you run it, it binds the ctrl S to AutoBack. However, the hot key no longer works in any other
-program. This defeats the purpose.
-	-- I have an idea on how to fix this. I just haven't had the time to implement it. 
+None know at this moment. 
