@@ -164,11 +164,11 @@ namespace AutoBack
         {
             if (m.Msg == WM_HOTKEY)
             {
+                base.WndProc(ref m);
                 UnregisterHotKey(this.Handle, 1);
-                System.Threading.Thread.Sleep(1000);
+                System.Threading.Thread.Sleep(3000);
                 ReadyCopy();
                 RegisterHotKey(this.Handle, 1, (uint)fsModifers.Control, (uint)Keys.S);
-                base.WndProc(ref m);
             }
 
             base.WndProc(ref m);

@@ -1,14 +1,14 @@
 AutoBack
 ========
 AutoBack was created to make sure that a developer or an average computer user never looses their files.
-This is done by creating hotkeys such as Ctrl S which is the default save hot key and asignign it to
+This is done by creating hotkeys such as Ctrl S which is the default save hot key and assigning it to
 automatically backup a selected folder.
 
 
 Tech Specs
 ==========
 Written in C# using the .net framework. 
-Originally writen in Visual Studios 2013 Express. 
+Originally written in Visual Studios 2013 Express. 
 
 
 Update
@@ -22,4 +22,4 @@ some I may release later on.
 
 KNOWN BUGS
 ==========
-None know at this moment. 
+- This issue appears to have been fixed. The code seems to still not be optimized as much as it could be.(It sometimes takes two times to save in another program. This is an issues caused by some inefficient code.)
