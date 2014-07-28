@@ -164,8 +164,10 @@ namespace AutoBack
         {
             if (m.Msg == WM_HOTKEY)
             {
+                UnregisterHotKey(this.Handle, 1);
                 System.Threading.Thread.Sleep(1000);
                 ReadyCopy();
+                RegisterHotKey(this.Handle, 1, (uint)fsModifers.Control, (uint)Keys.S);
                 base.WndProc(ref m);
             }
 
@@ -185,7 +187,7 @@ namespace AutoBack
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/DmitryPustovit/AKTSA-Open-Source-Software-Development-2014");
+            System.Diagnostics.Process.Start("https://github.com/DmitryPustovit/AutoBack");
         }
 
     }
