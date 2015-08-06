@@ -1,3 +1,12 @@
+OUTDATED
+========
+This application has is now included as a plugin in a new project that I am developing. As such the source code has been removed and an updated plugin version will be posted along with the new project.
+
+
+
+
+
+
 AutoBack
 ========
 AutoBack was created to make sure that a developer or an average computer user never looses their files.
